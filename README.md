@@ -45,6 +45,3 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/pereirathalita/pereirathalita/blob/output/snake.svg" alt="Snake animation" />
-
-###
