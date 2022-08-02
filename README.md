@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Thalita Pereira 👋
 
-- 👩‍💻 Desenvolvedora de software
+- 👩‍💻 Web Developer
 - 💡  Estudante de Análise e Desenvolvimento de Sistemas
 - 🤸‍♀️ Pilateira de plantão
 - ✈ Apaixonada por viagens
