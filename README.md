@@ -5,7 +5,7 @@
 - 🤸‍♀️ Pilateira de plantão
 - ✈ Apaixonada por viagens
 - 😊 Pronomes: ela/dela
-- 🚀 Ninguém larga a mão de ninguém, vamos juntes!
+- 🚀 Vamos aprender juntes?
 <br>
 
 <div align="center">
