@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Thalita Pereira 👋
 
 - 👩‍💻 Web Developer
-- 💡  Estudante de Análise e Desenvolvimento de Sistemas
+- 💡 Estudante de Análise e Desenvolvimento de Sistemas
 - 🤸‍♀️ Pilateira de plantão
 - ✈ Apaixonada por viagens
 - 😊 Pronomes: ela/dela
