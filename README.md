@@ -1,4 +1,4 @@
-### Olá! Eu sou a Thalita Pereira 👋
+### Olá! Eu sou a Thalita Pereira 👋😊
 
 - 👩‍💻 Web Developer
 - 💡 Estudante de Análise e Desenvolvimento de Sistemas
