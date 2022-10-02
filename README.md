@@ -3,7 +3,7 @@
 - 👩‍💻 Front-end Developer
 - 💡 Estudante de Análise e Desenvolvimento de Sistemas
 - 🤸‍♀️ Pilateira de plantão
-- ✈ Apaixonada por viagens
+- ✈ Apaixonada por viajar
 - 😊 Pronomes: ela/dela
 - 🚀 Vamos aprender juntes?
 <br>
