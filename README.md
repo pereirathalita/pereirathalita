@@ -4,7 +4,7 @@
 - 💡 Estudante de Análise e Desenvolvimento de Sistemas
 - 🤸‍♀️ Pilateira de plantão
 - ✈ Apaixonada por conhecer novas culturas e lugares
-- 🚀 Vamos aprender juntes?
+- 🚀 Vamos aprender juntos?
 <br>
 
 <div align="center">
